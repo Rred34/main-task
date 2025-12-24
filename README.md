@@ -1,8 +1,5 @@
 # Main Tasks Project
-
-## Установка и запуск
-
-### Клонирование репозитория
+## Клонирование репозитория
 ```bash
 git clone https://github.com/Rred34/main-task.git
 cd main-task
